@@ -1,0 +1,4 @@
+alias spark-submit='/home/adityasharma/Downloads/spark-2.2.0-bin-hadoop2.7/bin/spark-submit'
+
+spark-submit --class com.priyam.spark.minMax Untitled.jar 
+
